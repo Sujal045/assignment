@@ -1,0 +1,31 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+  
+  .dialog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dialog img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .dialog button {
+    margin: 5px;
+  }
+  
+  h4{
+    color: red;
+  }
